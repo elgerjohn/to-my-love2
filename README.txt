@@ -1,0 +1,1 @@
+Add photos to images folder and all-i-ever-need.mp3 to music folder.
